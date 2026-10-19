@@ -1,5 +1,7 @@
 # Desenvolvimento web -  arquitetura - Mapas mental
 
+Obs: Repositório geral de estudos, contendo diversos conteúdos diferentes, algumas vezes, sem nexo um com ao outro, foco em estudos gerais de web. 
+
 Este repositório foi criado com foco na aprendizagem do desenvolvimento Web, Trazendo consigo conteudos da faculdade para melhor entedimento.
 
 Estou estudando **JavaScript**, realizando exercícios de lógica para me familiarizar com a linguagem e evoluir minhas habilidades técnicas. Além do JavaScript, o foco se estende ao **TypeScript**, com o objetivo de aprender e aperfeiçoar essas linguagens.
